@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BrianFarrell]]></title>
         <description><![CDATA[BrianFarrell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianfarrell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 05:21:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 05:22:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianfarrell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Road to Nowhere]]></title>
+            <description><![CDATA[<article><h1>Road to Nowhere</h1><img src="https://farm6.staticflickr.com/5791/21109862214_d2633ecd8c_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/brianfarrell/21109862214/in/dateposted-public/</link>
+            <guid isPermaLink="false">cb3e9b1e-3d27-48b9-96be-6ce6ab243bd2</guid>
+            <pubDate>Thu, 19 Nov 2015 05:22:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bruges]]></title>
             <description><![CDATA[<article><h1>Bruges</h1><img src="https://farm6.staticflickr.com/5782/22927071412_2d393d623a_b.jpg"></article>]]></description>
