@@ -1,0 +1,23 @@
+name: BrianFarrell
+favicon: null
+layout_spectrum: 0.9750442204531282
+typography_spectrum: 0.3125269333831966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.613216279540211
+  lightness: 0.05398641340434551
+  saturation: 0.8133170385845006
+  rhythmicContrast: 0.4369729394093156
+purpose: []
